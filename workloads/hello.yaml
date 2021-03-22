@@ -2,7 +2,7 @@ kind: Service
 apiVersion: v1
 metadata:
   name: hello-service
-  namespace: lasample
+  namespace: lamanifest
 spec:
   selector:
     app: hello
